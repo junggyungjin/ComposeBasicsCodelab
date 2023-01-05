@@ -121,7 +121,7 @@ private fun CardContent(name: String) {
             )
             if (expanded) {
                 Text(
-                    text = ("Composem ipsum color sit lazy, " + "padding theme elit, sed do bouncy. ").repeat(
+                    text = ("Composem ipsum color sit lazy, " + "padding theme elit, sed do bouncy.  ").repeat(
                         4
                     )
                 )
